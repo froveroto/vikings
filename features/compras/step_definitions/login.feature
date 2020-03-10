@@ -30,3 +30,4 @@ Funcionalidade: Login
     Cenario: Somente senha
       Quando eu digitar somente a senha e clicar em login
       Entao receberei uma mensagem informando obrigatoriedade do usuario
+      

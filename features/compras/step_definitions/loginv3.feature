@@ -13,7 +13,7 @@ Funcionalidade: Login
 
     @logininvalido
     Esquema do Cenario: Acesso invalido
-      Quando eu digitar meu "<usuarioserrados>" e "<usuarioserrados>" errados e clicar em login
+      Quando eu digitar meu "<usuarioserrados>" e "<senhaserradas>" errados e clicar em login
       Entao receberei uma mensagem "<mensagemerrologin>" de login invalido
       
       Exemplos:
