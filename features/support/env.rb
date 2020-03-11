@@ -4,6 +4,8 @@ require 'selenium-webdriver'
 require 'capybara'
 require 'capybara/cucumber'
 require 'site_prism'
+require 'rest-client'
+require 'json'
 #require 'page-object'
 #require 'data_magic'
 
